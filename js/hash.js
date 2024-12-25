@@ -1,6 +1,6 @@
 
 function cpu(){
-    document.write("iqowh jaij")
+    document.write("iqowh jaigeubgv hwvj")
 }
 
 cpu()
